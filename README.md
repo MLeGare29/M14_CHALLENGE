@@ -65,7 +65,6 @@ After the analysis of the SVM, ADABoost, Logistic Regression, and Decision Tree 
 **SVM MODEL: 4 DAY "SHORT" WINDOW | 100 DAY "LONG" WINDOW**
 
    precision    recall  f1-score   support
-
         -1.0       0.43      0.04      0.07      1804
          1.0       0.56      0.96      0.71      2288
 
@@ -74,7 +73,6 @@ After the analysis of the SVM, ADABoost, Logistic Regression, and Decision Tree 
 **4 DAY "SHORT" WINDOW | 200 DAY "LONG" WINDOW**
 
    precision    recall  f1-score   support
-
         -1.0       0.44      0.85      0.58      1740
          1.0       0.58      0.16      0.25      2227
 
@@ -83,7 +81,6 @@ After the analysis of the SVM, ADABoost, Logistic Regression, and Decision Tree 
 **ADABOOST MODEL: 4 DAY "SHORT" WINDOW | 100 DAY "LONG" WINDOW**
 
   precision    recall  f1-score   support
-
         -1.0       0.44      0.08      0.13      1804
          1.0       0.56      0.92      0.70      2288
 
@@ -92,7 +89,6 @@ After the analysis of the SVM, ADABoost, Logistic Regression, and Decision Tree 
 **4 DAY "SHORT" WINDOW | 200 DAY "LONG" WINDOW**
 
   precision    recall  f1-score   support
-
         -1.0       0.45      0.48      0.46      1740
          1.0       0.57      0.55      0.56      2227
 
@@ -102,7 +98,6 @@ After the analysis of the SVM, ADABoost, Logistic Regression, and Decision Tree 
 **LOGISTIC REGRESSION MODEL: 4 DAY "SHORT" WINDOW | 100 DAY "LONG" WINDOW**
 
   precision    recall  f1-score   support
-
         -1.0       0.44      0.33      0.38      1804
          1.0       0.56      0.66      0.61      2288
 
@@ -111,7 +106,6 @@ After the analysis of the SVM, ADABoost, Logistic Regression, and Decision Tree 
 **4 DAY "SHORT" WINDOW | 200 DAY "LONG" WINDOW**
 
   precision    recall  f1-score   support
-
         -1.0       0.45      0.45      0.45      1740
          1.0       0.57      0.57      0.57      2227
 
@@ -120,7 +114,6 @@ After the analysis of the SVM, ADABoost, Logistic Regression, and Decision Tree 
 **DECISION TREE MODEL: 4 DAY "SHORT" WINDOW | 100 DAY "LONG" WINDOW**
 
   precision    recall  f1-score   support
-
         -1.0       0.44      0.77      0.56      1804
          1.0       0.55      0.22      0.32      2288
 
@@ -129,7 +122,6 @@ After the analysis of the SVM, ADABoost, Logistic Regression, and Decision Tree 
 **4 DAY "SHORT" WINDOW | 200 DAY "LONG" WINDOW**
 
   precision    recall  f1-score   support
-
         -1.0       0.44      0.61      0.51      1740
          1.0       0.57      0.40      0.47      2227
 
