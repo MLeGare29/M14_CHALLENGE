@@ -12,7 +12,7 @@ The landscape of the investment world is changing in more ways than just the ebb
 
 2. Tune the baseline trading algorithm.
 
-3. Evaluate a new machine learning classifier.
+3. Evaluate a new machine learning classifiers.
 
 4. Create an Evaluation Report.
 
@@ -161,17 +161,47 @@ In the gallery section directly below, you will find the images of the plot resu
 **SVM PLOT**
 
 
+**4-100 DAY WINDOW:**
+![image](https://github.com/MLeGare29/M14_CHALLENGE/assets/127421460/06f3d5ed-2f3c-4df1-af93-29e3c37dd5c5)
+
+
+**4-200 DAY WINDOW:**
+![image](https://github.com/MLeGare29/M14_CHALLENGE/assets/127421460/e051b418-1ec1-4fcf-9833-e3eb6dbbfd79)
+
 
 **ADABOOST PLOT**
+
+
+**4-100 DAY WINDOW:**
+![image](https://github.com/MLeGare29/M14_CHALLENGE/assets/127421460/6d81e28a-3213-4dd1-884f-21e5f74a2494)
+
+
+**4-200 DAY WINDOW:**
+![image](https://github.com/MLeGare29/M14_CHALLENGE/assets/127421460/a17c6d6a-d34f-49e4-af4d-bfcb0b3d35e8)
 
 
 
 **LOGISTIC REGRESSION PLOT**
 
 
+**4-100 DAY WINDOW:**
+![image](https://github.com/MLeGare29/M14_CHALLENGE/assets/127421460/097adfe7-7981-46ba-8432-e08014630ece)
+
+
+**4-200 DAY WINDOW:**
+![image](https://github.com/MLeGare29/M14_CHALLENGE/assets/127421460/8d29c821-fd23-4c98-9331-803121d44bbd)
+
+
 
 **DECISION TREE PLOT**
 
+
+**4-100 DAY WINDOW:**
+![image](https://github.com/MLeGare29/M14_CHALLENGE/assets/127421460/3f45ff2e-0ff9-46ff-b973-59086011c051)
+
+
+**4-200 DAY WINDOW:**
+![image](https://github.com/MLeGare29/M14_CHALLENGE/assets/127421460/8b3e5fb1-c580-41d4-bf54-330c0d1a4903)
 
 
 
